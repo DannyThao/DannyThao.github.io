@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project.
 
-![picture_title](picture filename?raw=true "Optional Title")
+![Capture](https://github.com/DannyThao/DannyThao.github.io/blob/master/Capture.PNG?raw=true "Optional Title")
 
 ***
 
